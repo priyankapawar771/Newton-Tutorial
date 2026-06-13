@@ -1,0 +1,5 @@
+{
+    "agent_name": "DataBot_v1",
+    "model_engine": "gpt-4",
+    "temperature": 0.3
+}
